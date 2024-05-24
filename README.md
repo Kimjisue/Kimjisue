@@ -15,9 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDawon00&count_bg=%23B1C978&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80++Today%27s+Visits+%2F+Total+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-
+<!--
 ### Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=git,c,cpp,dart,firebase,js,html,css,react,bootstrap,vscode,notion)](https://skillicons.dev)
+--!>
+
+<!--내용 부분-->
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-FF4154?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/C-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+</div>
