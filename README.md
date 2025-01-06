@@ -45,6 +45,6 @@ All is well <br>
 <br>
 <h2 align="left">👩🏻‍💻 My Stats 👩🏻‍💻</h2>
 <div style="display: flex; flex-direction: column; align-items: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kimjisue&theme=onedark&show_icons=true&count_private=true&custom_width=400" style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimjisue&layout=compact&custom_width=400&langs_count=6" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kimjisue&theme=onedark&show_icons=true&count_private=true&custom_width=300" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimjisue&layout=compact&custom_width=300&langs_count=6" style="height: 200px;">
 </div>
