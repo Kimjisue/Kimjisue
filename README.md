@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/C-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
 </div>
@@ -59,5 +59,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
   <img src="https://img.shields.io/badge/IntelliJ_IDE-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=FF1493" /
-  
+</div>
+
+<div align="center">
+  ![Jisue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimjisue&theme=date_night&show_icons=true)
 </div>
