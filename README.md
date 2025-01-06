@@ -61,6 +61,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/IntelliJ_IDE-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=FF1493" /
 </div>
 
-<div align="center">
-  ![Jisue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimjisue&theme=date_night&show_icons=true)
-</div>
+<br></br>
+
+![Jisue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimjisue&theme=onedark&show_icons=true)
+
