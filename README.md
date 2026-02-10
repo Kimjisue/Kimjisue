@@ -42,8 +42,3 @@ All is well <br>
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
   <img src="https://img.shields.io/badge/IntelliJ_IDE-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=FF1493" /
 </div>
-<br>
-<h2 align="left">👩🏻‍💻 My Stats 👩🏻‍💻</h2>
-<div style="display: flex; flex-direction: row; align-items: left;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimjisue&layout=compact&width=200&langs_count=6" style="height: 200px;">
-</div>
