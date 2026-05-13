@@ -1,9 +1,7 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=linear-gradient(f7b5ca,f0a8d0)&height=300&section=header&text=KimJisue&fontSize=90" />
 -->
 ### 💖 Welcome to Jisue Github 👋
-Always <br>
-All ways <br>
-All is well <br>
+
 <!--내용 부분-->
 <br>
 <h2 align="left">📚 Studying 📚</h2>
