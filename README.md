@@ -4,13 +4,13 @@
 
 <!--내용 부분-->
 <br>
-<h2 align="left">📚 Studying 📚</h2>
+<h3 align="left">📚 Studying 📚</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
 <br>
-<h2 align="left">💻 Tech Stacks 💻</h2>
+<h3 align="left">💻 Tech Stacks 💻</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/react-FF4154?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
 </div>
 <br>
-<h2 align="left">🛠 Tools 🛠</h2>
+<h3 align="left">🛠 Tools 🛠</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
